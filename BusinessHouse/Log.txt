@@ -1,0 +1,827 @@
+2021-03-14.18:53:18:	Game has started
+2021-03-14.18:53:18:	Created EmptyCell
+2021-03-14.18:53:18:	Created EmptyCell
+2021-03-14.18:53:18:	Created JailCell
+2021-03-14.18:53:18:	Created EmptyCell
+2021-03-14.18:53:18:	Created JailCell
+2021-03-14.18:53:18:	Created EmptyCell
+2021-03-14.18:53:18:	Created EmptyCell
+2021-03-14.18:53:18:	Created JailCell
+2021-03-14.18:53:18:	Created EmptyCell
+2021-03-14.18:53:18:	Created EmptyCell
+2021-03-14.18:53:18:	Created JailCell
+2021-03-14.18:53:18:	Created EmptyCell
+2021-03-14.18:53:18:	Created JailCell
+2021-03-14.18:53:18:	Created EmptyCell
+2021-03-14.18:53:18:	Created EmptyCell
+2021-03-14.18:53:18:	Created JailCell
+2021-03-14.18:53:18:	Created JailCell
+2021-03-14.18:53:18:	Created EmptyCell
+2021-03-14.18:53:18:	Created EmptyCell
+2021-03-14.18:53:18:	Created JailCell
+2021-03-14.18:53:18:	Created EmptyCell
+2021-03-14.18:53:18:	Created JailCell
+2021-03-14.18:53:18:	Created EmptyCell
+2021-03-14.18:53:18:	Created EmptyCell
+2021-03-14.18:53:18:	Created JailCell
+2021-03-14.18:53:18:	Created EmptyCell
+2021-03-14.18:53:18:	Created EmptyCell
+2021-03-14.18:53:19:	Visited Emptycell PlayerName:- Player1 New Balance-:1000
+2021-03-14.18:53:19:	Visited Emptycell PlayerName:- Player2 New Balance-:1000
+2021-03-14.18:53:19:	Visited Emptycell PlayerName:- Player3 New Balance-:1000
+2021-03-14.18:53:19:	Visited Hotel to buy Player Name:- Player1 New Balance-:800
+2021-03-14.18:53:19:	Visited Jail PlayerName:- Player2 New Balance-:850
+2021-03-14.18:53:19:	Visited Emptycell PlayerName:- Player1 New Balance-:800
+2021-03-14.18:53:19:	Visited Emptycell PlayerName:- Player2 New Balance-:850
+2021-03-14.18:53:19:	Visited Emptycell PlayerName:- Player3 New Balance-:1200
+2021-03-14.18:53:19:	Visited Hotel to buy Player Name:- Player1 New Balance-:600
+2021-03-14.18:53:19:	Visited Hotel to buy Player Name:- Player2 New Balance-:650
+2021-03-14.18:53:19:	Visited Jail PlayerName:- Player3 New Balance-:1050
+2021-03-14.18:53:19:	Visited Hotel to buy Player Name:- Player1 New Balance-:400
+2021-03-14.18:53:19:	Visited Emptycell PlayerName:- Player2 New Balance-:650
+2021-03-14.18:53:19:	Visited Hotel Owned by :-Player1 visitorr Player Name:- Player3 New Balance-:1000
+2021-03-14.18:53:19:	Visited Jail PlayerName:- Player1 New Balance-:300
+2021-03-14.18:53:19:	Visited Jail PlayerName:- Player2 New Balance-:500
+2021-03-14.18:53:19:	Visited Hotel to buy Player Name:- Player3 New Balance-:800
+2021-03-14.18:53:19:	Visited Jail PlayerName:- Player2 New Balance-:350
+2021-03-14.18:53:19:	Visited Emptycell PlayerName:- Player3 New Balance-:800
+2021-03-14.18:53:19:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.18:53:19:	Visited Jail PlayerName:- Player3 New Balance-:650
+2021-03-14.18:53:19:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.18:53:19:	Visited Emptycell PlayerName:- Player2 New Balance-:550
+2021-03-14.18:53:19:	Visited Jail PlayerName:- Player3 New Balance-:500
+2021-03-14.18:53:19:	Visited Jail PlayerName:- Player2 New Balance-:400
+2021-03-14.18:53:19:	Visited Emptycell PlayerName:- Player3 New Balance-:500
+2021-03-14.19:05:43:	Game has started
+2021-03-14.19:05:43:	Created EmptyCell
+2021-03-14.19:05:43:	Created EmptyCell
+2021-03-14.19:05:43:	Created JailCell
+2021-03-14.19:05:43:	Created HotelCell
+2021-03-14.19:05:43:	Created EmptyCell
+2021-03-14.19:05:43:	Created treasureCell
+2021-03-14.19:05:43:	Created JailCell
+2021-03-14.19:05:43:	Created treasureCell
+2021-03-14.19:05:43:	Created EmptyCell
+2021-03-14.19:05:43:	Created EmptyCell
+2021-03-14.19:05:43:	Created HotelCell
+2021-03-14.19:05:43:	Created JailCell
+2021-03-14.19:05:43:	Created treasureCell
+2021-03-14.19:05:43:	Created HotelCell
+2021-03-14.19:05:43:	Created EmptyCell
+2021-03-14.19:05:43:	Created EmptyCell
+2021-03-14.19:05:43:	Created JailCell
+2021-03-14.19:05:43:	Created HotelCell
+2021-03-14.19:05:43:	Created EmptyCell
+2021-03-14.19:05:43:	Created treasureCell
+2021-03-14.19:05:43:	Created JailCell
+2021-03-14.19:05:43:	Created treasureCell
+2021-03-14.19:05:43:	Created EmptyCell
+2021-03-14.19:05:43:	Created EmptyCell
+2021-03-14.19:05:43:	Created HotelCell
+2021-03-14.19:05:43:	Created JailCell
+2021-03-14.19:05:43:	Created treasureCell
+2021-03-14.19:05:43:	Created HotelCell
+2021-03-14.19:05:43:	Created JailCell
+2021-03-14.19:05:43:	Created EmptyCell
+2021-03-14.19:05:43:	Created EmptyCell
+2021-03-14.19:05:43:	Created JailCell
+2021-03-14.19:05:43:	Created HotelCell
+2021-03-14.19:05:43:	Created EmptyCell
+2021-03-14.19:05:43:	Created treasureCell
+2021-03-14.19:05:43:	Created JailCell
+2021-03-14.19:05:43:	Created treasureCell
+2021-03-14.19:05:43:	Created EmptyCell
+2021-03-14.19:05:43:	Created EmptyCell
+2021-03-14.19:05:43:	Created HotelCell
+2021-03-14.19:05:43:	Created JailCell
+2021-03-14.19:05:43:	Created treasureCell
+2021-03-14.19:05:43:	Created EmptyCell
+2021-03-14.19:05:43:	Created HotelCell
+2021-03-14.19:05:43:	Created EmptyCell
+2021-03-14.19:05:43:	Visited Emptycell PlayerName:- Player1 New Balance-:1000
+2021-03-14.19:05:43:	Visited Emptycell PlayerName:- Player2 New Balance-:1000
+2021-03-14.19:05:43:	Visited Emptycell PlayerName:- Player3 New Balance-:1000
+2021-03-14.19:05:43:	Visited Hotel to buy Player Name:- Player1 New Balance-:800
+2021-03-14.19:05:43:	Visited Jail PlayerName:- Player2 New Balance-:850
+2021-03-14.19:05:43:	Visited Treasure PlayerName:- Player3 New Balance-:1200
+2021-03-14.19:05:43:	Visited Emptycell PlayerName:- Player1 New Balance-:800
+2021-03-14.19:05:43:	Visited Emptycell PlayerName:- Player2 New Balance-:850
+2021-03-14.19:05:43:	Visited Emptycell PlayerName:- Player3 New Balance-:1200
+2021-03-14.19:05:43:	Visited Hotel to buy Player Name:- Player1 New Balance-:600
+2021-03-14.19:05:43:	Visited Hotel to buy Player Name:- Player2 New Balance-:650
+2021-03-14.19:05:43:	Visited Jail PlayerName:- Player3 New Balance-:1050
+2021-03-14.19:05:43:	Visited Hotel to buy Player Name:- Player1 New Balance-:400
+2021-03-14.19:05:43:	Visited Emptycell PlayerName:- Player2 New Balance-:650
+2021-03-14.19:05:43:	Visited Hotel Owned by :-Player1 visitorr Player Name:- Player3 New Balance-:1000
+2021-03-14.19:05:43:	Visited Jail PlayerName:- Player1 New Balance-:300
+2021-03-14.19:05:43:	Visited Jail PlayerName:- Player2 New Balance-:500
+2021-03-14.19:05:43:	Visited Hotel to buy Player Name:- Player3 New Balance-:800
+2021-03-14.19:05:43:	Visited Treasure PlayerName:- Player1 New Balance-:500
+2021-03-14.19:05:43:	Visited Jail PlayerName:- Player2 New Balance-:350
+2021-03-14.19:05:43:	Visited Emptycell PlayerName:- Player3 New Balance-:800
+2021-03-14.19:05:43:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.19:05:43:	Visited Treasure PlayerName:- Player2 New Balance-:550
+2021-03-14.19:05:43:	Visited Jail PlayerName:- Player3 New Balance-:650
+2021-03-14.19:05:43:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.19:05:43:	Visited Emptycell PlayerName:- Player2 New Balance-:550
+2021-03-14.19:05:43:	Visited Jail PlayerName:- Player3 New Balance-:500
+2021-03-14.19:05:43:	Visited Treasure PlayerName:- Player1 New Balance-:700
+2021-03-14.19:05:43:	Visited Jail PlayerName:- Player2 New Balance-:400
+2021-03-14.19:05:43:	Visited Emptycell PlayerName:- Player3 New Balance-:500
+2021-03-14.19:05:43:	output balance
+2021-03-14.19:06:04:	Game has started
+2021-03-14.19:06:05:	Created EmptyCell
+2021-03-14.19:06:05:	Created EmptyCell
+2021-03-14.19:06:05:	Created JailCell
+2021-03-14.19:06:05:	Created HotelCell
+2021-03-14.19:06:05:	Created EmptyCell
+2021-03-14.19:06:05:	Created treasureCell
+2021-03-14.19:06:05:	Created JailCell
+2021-03-14.19:06:05:	Created treasureCell
+2021-03-14.19:06:05:	Created EmptyCell
+2021-03-14.19:06:05:	Created EmptyCell
+2021-03-14.19:06:05:	Created HotelCell
+2021-03-14.19:06:05:	Created JailCell
+2021-03-14.19:06:05:	Created treasureCell
+2021-03-14.19:06:05:	Created HotelCell
+2021-03-14.19:06:05:	Created EmptyCell
+2021-03-14.19:06:05:	Created EmptyCell
+2021-03-14.19:06:05:	Created JailCell
+2021-03-14.19:06:05:	Created HotelCell
+2021-03-14.19:06:05:	Created EmptyCell
+2021-03-14.19:06:05:	Created treasureCell
+2021-03-14.19:06:05:	Created JailCell
+2021-03-14.19:06:05:	Created treasureCell
+2021-03-14.19:06:05:	Created EmptyCell
+2021-03-14.19:06:05:	Created EmptyCell
+2021-03-14.19:06:05:	Created HotelCell
+2021-03-14.19:06:05:	Created JailCell
+2021-03-14.19:06:05:	Created treasureCell
+2021-03-14.19:06:05:	Created HotelCell
+2021-03-14.19:06:05:	Created JailCell
+2021-03-14.19:06:05:	Created EmptyCell
+2021-03-14.19:06:05:	Created EmptyCell
+2021-03-14.19:06:05:	Created JailCell
+2021-03-14.19:06:05:	Created HotelCell
+2021-03-14.19:06:05:	Created EmptyCell
+2021-03-14.19:06:05:	Created treasureCell
+2021-03-14.19:06:05:	Created JailCell
+2021-03-14.19:06:05:	Created treasureCell
+2021-03-14.19:06:05:	Created EmptyCell
+2021-03-14.19:06:05:	Created EmptyCell
+2021-03-14.19:06:05:	Created HotelCell
+2021-03-14.19:06:05:	Created JailCell
+2021-03-14.19:06:05:	Created treasureCell
+2021-03-14.19:06:05:	Created EmptyCell
+2021-03-14.19:06:05:	Created HotelCell
+2021-03-14.19:06:05:	Created EmptyCell
+2021-03-14.19:06:05:	Visited Emptycell PlayerName:- Player1 New Balance-:1000
+2021-03-14.19:06:05:	Visited Emptycell PlayerName:- Player2 New Balance-:1000
+2021-03-14.19:06:05:	Visited Emptycell PlayerName:- Player3 New Balance-:1000
+2021-03-14.19:06:05:	Visited Hotel to buy Player Name:- Player1 New Balance-:800
+2021-03-14.19:06:05:	Visited Jail PlayerName:- Player2 New Balance-:850
+2021-03-14.19:06:05:	Visited Treasure PlayerName:- Player3 New Balance-:1200
+2021-03-14.19:06:05:	Visited Emptycell PlayerName:- Player1 New Balance-:800
+2021-03-14.19:06:05:	Visited Emptycell PlayerName:- Player2 New Balance-:850
+2021-03-14.19:06:05:	Visited Emptycell PlayerName:- Player3 New Balance-:1200
+2021-03-14.19:06:05:	Visited Hotel to buy Player Name:- Player1 New Balance-:600
+2021-03-14.19:06:05:	Visited Hotel to buy Player Name:- Player2 New Balance-:650
+2021-03-14.19:06:05:	Visited Jail PlayerName:- Player3 New Balance-:1050
+2021-03-14.19:06:05:	Visited Hotel to buy Player Name:- Player1 New Balance-:400
+2021-03-14.19:06:05:	Visited Emptycell PlayerName:- Player2 New Balance-:650
+2021-03-14.19:06:05:	Visited Hotel Owned by :-Player1 visitorr Player Name:- Player3 New Balance-:1000
+2021-03-14.19:06:05:	Visited Jail PlayerName:- Player1 New Balance-:300
+2021-03-14.19:06:05:	Visited Jail PlayerName:- Player2 New Balance-:500
+2021-03-14.19:06:05:	Visited Hotel to buy Player Name:- Player3 New Balance-:800
+2021-03-14.19:06:05:	Visited Treasure PlayerName:- Player1 New Balance-:500
+2021-03-14.19:06:05:	Visited Jail PlayerName:- Player2 New Balance-:350
+2021-03-14.19:06:05:	Visited Emptycell PlayerName:- Player3 New Balance-:800
+2021-03-14.19:06:05:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.19:06:05:	Visited Treasure PlayerName:- Player2 New Balance-:550
+2021-03-14.19:06:05:	Visited Jail PlayerName:- Player3 New Balance-:650
+2021-03-14.19:06:05:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.19:06:05:	Visited Emptycell PlayerName:- Player2 New Balance-:550
+2021-03-14.19:06:05:	Visited Jail PlayerName:- Player3 New Balance-:500
+2021-03-14.19:06:05:	Visited Treasure PlayerName:- Player1 New Balance-:700
+2021-03-14.19:06:05:	Visited Jail PlayerName:- Player2 New Balance-:400
+2021-03-14.19:06:05:	Visited Emptycell PlayerName:- Player3 New Balance-:500
+2021-03-14.19:06:05:	output balance
+2021-03-14.19:07:00:	Game has started
+2021-03-14.19:07:00:	Created EmptyCell
+2021-03-14.19:07:00:	Created EmptyCell
+2021-03-14.19:07:00:	Created JailCell
+2021-03-14.19:07:00:	Created HotelCell
+2021-03-14.19:07:00:	Created EmptyCell
+2021-03-14.19:07:00:	Created treasureCell
+2021-03-14.19:07:00:	Created JailCell
+2021-03-14.19:07:00:	Created treasureCell
+2021-03-14.19:07:00:	Created EmptyCell
+2021-03-14.19:07:00:	Created EmptyCell
+2021-03-14.19:07:00:	Created HotelCell
+2021-03-14.19:07:00:	Created JailCell
+2021-03-14.19:07:00:	Created treasureCell
+2021-03-14.19:07:00:	Created HotelCell
+2021-03-14.19:07:00:	Created EmptyCell
+2021-03-14.19:07:00:	Created EmptyCell
+2021-03-14.19:07:00:	Created JailCell
+2021-03-14.19:07:00:	Created HotelCell
+2021-03-14.19:07:00:	Created EmptyCell
+2021-03-14.19:07:00:	Created treasureCell
+2021-03-14.19:07:00:	Created JailCell
+2021-03-14.19:07:00:	Created treasureCell
+2021-03-14.19:07:00:	Created EmptyCell
+2021-03-14.19:07:00:	Created EmptyCell
+2021-03-14.19:07:00:	Created HotelCell
+2021-03-14.19:07:00:	Created JailCell
+2021-03-14.19:07:00:	Created treasureCell
+2021-03-14.19:07:00:	Created HotelCell
+2021-03-14.19:07:00:	Created JailCell
+2021-03-14.19:07:00:	Created EmptyCell
+2021-03-14.19:07:00:	Created EmptyCell
+2021-03-14.19:07:00:	Created JailCell
+2021-03-14.19:07:00:	Created HotelCell
+2021-03-14.19:07:00:	Created EmptyCell
+2021-03-14.19:07:00:	Created treasureCell
+2021-03-14.19:07:00:	Created JailCell
+2021-03-14.19:07:00:	Created treasureCell
+2021-03-14.19:07:00:	Created EmptyCell
+2021-03-14.19:07:00:	Created EmptyCell
+2021-03-14.19:07:00:	Created HotelCell
+2021-03-14.19:07:00:	Created JailCell
+2021-03-14.19:07:00:	Created treasureCell
+2021-03-14.19:07:00:	Created EmptyCell
+2021-03-14.19:07:00:	Created HotelCell
+2021-03-14.19:07:00:	Created EmptyCell
+2021-03-14.19:07:01:	Visited Emptycell PlayerName:- Player1 New Balance-:1000
+2021-03-14.19:07:01:	Visited Emptycell PlayerName:- Player2 New Balance-:1000
+2021-03-14.19:07:01:	Visited Emptycell PlayerName:- Player3 New Balance-:1000
+2021-03-14.19:07:01:	Visited Hotel to buy Player Name:- Player1 New Balance-:800
+2021-03-14.19:07:01:	Visited Jail PlayerName:- Player2 New Balance-:850
+2021-03-14.19:07:01:	Visited Treasure PlayerName:- Player3 New Balance-:1200
+2021-03-14.19:07:01:	Visited Emptycell PlayerName:- Player1 New Balance-:800
+2021-03-14.19:07:01:	Visited Emptycell PlayerName:- Player2 New Balance-:850
+2021-03-14.19:07:01:	Visited Emptycell PlayerName:- Player3 New Balance-:1200
+2021-03-14.19:07:01:	Visited Hotel to buy Player Name:- Player1 New Balance-:600
+2021-03-14.19:07:01:	Visited Hotel to buy Player Name:- Player2 New Balance-:650
+2021-03-14.19:07:01:	Visited Jail PlayerName:- Player3 New Balance-:1050
+2021-03-14.19:07:01:	Visited Hotel to buy Player Name:- Player1 New Balance-:400
+2021-03-14.19:07:01:	Visited Emptycell PlayerName:- Player2 New Balance-:650
+2021-03-14.19:07:01:	Visited Hotel Owned by :-Player1 visitorr Player Name:- Player3 New Balance-:1000
+2021-03-14.19:07:01:	Visited Jail PlayerName:- Player1 New Balance-:300
+2021-03-14.19:07:01:	Visited Jail PlayerName:- Player2 New Balance-:500
+2021-03-14.19:07:01:	Visited Hotel to buy Player Name:- Player3 New Balance-:800
+2021-03-14.19:07:01:	Visited Treasure PlayerName:- Player1 New Balance-:500
+2021-03-14.19:07:01:	Visited Jail PlayerName:- Player2 New Balance-:350
+2021-03-14.19:07:01:	Visited Emptycell PlayerName:- Player3 New Balance-:800
+2021-03-14.19:07:01:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.19:07:01:	Visited Treasure PlayerName:- Player2 New Balance-:550
+2021-03-14.19:07:01:	Visited Jail PlayerName:- Player3 New Balance-:650
+2021-03-14.19:07:01:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.19:07:01:	Visited Emptycell PlayerName:- Player2 New Balance-:550
+2021-03-14.19:07:01:	Visited Jail PlayerName:- Player3 New Balance-:500
+2021-03-14.19:07:01:	Visited Treasure PlayerName:- Player1 New Balance-:700
+2021-03-14.19:07:01:	Visited Jail PlayerName:- Player2 New Balance-:400
+2021-03-14.19:07:01:	Visited Emptycell PlayerName:- Player3 New Balance-:500
+2021-03-14.19:07:01:	output balance
+2021-03-14.19:10:02:	Game has started
+2021-03-14.19:10:02:	Created EmptyCell
+2021-03-14.19:10:02:	Created EmptyCell
+2021-03-14.19:10:02:	Created JailCell
+2021-03-14.19:10:02:	Created HotelCell
+2021-03-14.19:10:02:	Created EmptyCell
+2021-03-14.19:10:02:	Created treasureCell
+2021-03-14.19:10:02:	Created JailCell
+2021-03-14.19:10:02:	Created treasureCell
+2021-03-14.19:10:02:	Created EmptyCell
+2021-03-14.19:10:02:	Created EmptyCell
+2021-03-14.19:10:02:	Created HotelCell
+2021-03-14.19:10:02:	Created JailCell
+2021-03-14.19:10:02:	Created treasureCell
+2021-03-14.19:10:02:	Created HotelCell
+2021-03-14.19:10:02:	Created EmptyCell
+2021-03-14.19:10:02:	Created EmptyCell
+2021-03-14.19:10:02:	Created JailCell
+2021-03-14.19:10:02:	Created HotelCell
+2021-03-14.19:10:02:	Created EmptyCell
+2021-03-14.19:10:02:	Created treasureCell
+2021-03-14.19:10:02:	Created JailCell
+2021-03-14.19:10:02:	Created treasureCell
+2021-03-14.19:10:02:	Created EmptyCell
+2021-03-14.19:10:02:	Created EmptyCell
+2021-03-14.19:10:02:	Created HotelCell
+2021-03-14.19:10:02:	Created JailCell
+2021-03-14.19:10:02:	Created treasureCell
+2021-03-14.19:10:02:	Created HotelCell
+2021-03-14.19:10:02:	Created JailCell
+2021-03-14.19:10:02:	Created EmptyCell
+2021-03-14.19:10:02:	Created EmptyCell
+2021-03-14.19:10:02:	Created JailCell
+2021-03-14.19:10:02:	Created HotelCell
+2021-03-14.19:10:02:	Created EmptyCell
+2021-03-14.19:10:02:	Created treasureCell
+2021-03-14.19:10:02:	Created JailCell
+2021-03-14.19:10:02:	Created treasureCell
+2021-03-14.19:10:02:	Created EmptyCell
+2021-03-14.19:10:02:	Created EmptyCell
+2021-03-14.19:10:02:	Created HotelCell
+2021-03-14.19:10:02:	Created JailCell
+2021-03-14.19:10:02:	Created treasureCell
+2021-03-14.19:10:02:	Created EmptyCell
+2021-03-14.19:10:02:	Created HotelCell
+2021-03-14.19:10:02:	Created EmptyCell
+2021-03-14.19:10:02:	Visited Emptycell PlayerName:- Player1 New Balance-:1000
+2021-03-14.19:10:02:	Visited Emptycell PlayerName:- Player2 New Balance-:1000
+2021-03-14.19:10:02:	Visited Emptycell PlayerName:- Player3 New Balance-:1000
+2021-03-14.19:10:02:	Visited Hotel to buy Player Name:- Player1 New Balance-:800
+2021-03-14.19:10:02:	Visited Jail PlayerName:- Player2 New Balance-:850
+2021-03-14.19:10:02:	Visited Treasure PlayerName:- Player3 New Balance-:1200
+2021-03-14.19:10:02:	Visited Emptycell PlayerName:- Player1 New Balance-:800
+2021-03-14.19:10:02:	Visited Emptycell PlayerName:- Player2 New Balance-:850
+2021-03-14.19:10:02:	Visited Emptycell PlayerName:- Player3 New Balance-:1200
+2021-03-14.19:10:02:	Visited Hotel to buy Player Name:- Player1 New Balance-:600
+2021-03-14.19:10:02:	Visited Hotel to buy Player Name:- Player2 New Balance-:650
+2021-03-14.19:10:02:	Visited Jail PlayerName:- Player3 New Balance-:1050
+2021-03-14.19:10:02:	Visited Hotel to buy Player Name:- Player1 New Balance-:400
+2021-03-14.19:10:02:	Visited Emptycell PlayerName:- Player2 New Balance-:650
+2021-03-14.19:10:02:	Visited Hotel Owned by :-Player1 visitorr Player Name:- Player3 New Balance-:1000
+2021-03-14.19:10:02:	Visited Jail PlayerName:- Player1 New Balance-:300
+2021-03-14.19:10:02:	Visited Jail PlayerName:- Player2 New Balance-:500
+2021-03-14.19:10:02:	Visited Hotel to buy Player Name:- Player3 New Balance-:800
+2021-03-14.19:10:02:	Visited Treasure PlayerName:- Player1 New Balance-:500
+2021-03-14.19:10:02:	Visited Jail PlayerName:- Player2 New Balance-:350
+2021-03-14.19:10:02:	Visited Emptycell PlayerName:- Player3 New Balance-:800
+2021-03-14.19:10:02:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.19:10:02:	Visited Treasure PlayerName:- Player2 New Balance-:550
+2021-03-14.19:10:02:	Visited Jail PlayerName:- Player3 New Balance-:650
+2021-03-14.19:10:02:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.19:10:02:	Visited Emptycell PlayerName:- Player2 New Balance-:550
+2021-03-14.19:10:02:	Visited Jail PlayerName:- Player3 New Balance-:500
+2021-03-14.19:10:02:	Visited Treasure PlayerName:- Player1 New Balance-:700
+2021-03-14.19:10:02:	Visited Jail PlayerName:- Player2 New Balance-:400
+2021-03-14.19:10:02:	Visited Emptycell PlayerName:- Player3 New Balance-:500
+2021-03-14.19:10:02:	output balance
+2021-03-14.19:11:04:	Game has started
+2021-03-14.19:11:04:	Created EmptyCell
+2021-03-14.19:11:04:	Created EmptyCell
+2021-03-14.19:11:04:	Created JailCell
+2021-03-14.19:11:04:	Created HotelCell
+2021-03-14.19:11:04:	Created EmptyCell
+2021-03-14.19:11:04:	Created treasureCell
+2021-03-14.19:11:04:	Created JailCell
+2021-03-14.19:11:04:	Created treasureCell
+2021-03-14.19:11:04:	Created EmptyCell
+2021-03-14.19:11:04:	Created EmptyCell
+2021-03-14.19:11:04:	Created HotelCell
+2021-03-14.19:11:04:	Created JailCell
+2021-03-14.19:11:04:	Created treasureCell
+2021-03-14.19:11:04:	Created HotelCell
+2021-03-14.19:11:04:	Created EmptyCell
+2021-03-14.19:11:04:	Created EmptyCell
+2021-03-14.19:11:04:	Created JailCell
+2021-03-14.19:11:04:	Created HotelCell
+2021-03-14.19:11:04:	Created EmptyCell
+2021-03-14.19:11:04:	Created treasureCell
+2021-03-14.19:11:04:	Created JailCell
+2021-03-14.19:11:04:	Created treasureCell
+2021-03-14.19:11:04:	Created EmptyCell
+2021-03-14.19:11:04:	Created EmptyCell
+2021-03-14.19:11:04:	Created HotelCell
+2021-03-14.19:11:04:	Created JailCell
+2021-03-14.19:11:04:	Created treasureCell
+2021-03-14.19:11:04:	Created HotelCell
+2021-03-14.19:11:04:	Created JailCell
+2021-03-14.19:11:04:	Created EmptyCell
+2021-03-14.19:11:04:	Created EmptyCell
+2021-03-14.19:11:04:	Created JailCell
+2021-03-14.19:11:04:	Created HotelCell
+2021-03-14.19:11:04:	Created EmptyCell
+2021-03-14.19:11:04:	Created treasureCell
+2021-03-14.19:11:04:	Created JailCell
+2021-03-14.19:11:04:	Created treasureCell
+2021-03-14.19:11:04:	Created EmptyCell
+2021-03-14.19:11:04:	Created EmptyCell
+2021-03-14.19:11:04:	Created HotelCell
+2021-03-14.19:11:04:	Created JailCell
+2021-03-14.19:11:04:	Created treasureCell
+2021-03-14.19:11:04:	Created EmptyCell
+2021-03-14.19:11:04:	Created HotelCell
+2021-03-14.19:11:04:	Created EmptyCell
+2021-03-14.19:11:04:	Visited Emptycell PlayerName:- Player1 New Balance-:1000
+2021-03-14.19:11:04:	Visited Emptycell PlayerName:- Player2 New Balance-:1000
+2021-03-14.19:11:04:	Visited Emptycell PlayerName:- Player3 New Balance-:1000
+2021-03-14.19:11:04:	Visited Hotel to buy Player Name:- Player1 New Balance-:800
+2021-03-14.19:11:04:	Visited Jail PlayerName:- Player2 New Balance-:850
+2021-03-14.19:11:04:	Visited Treasure PlayerName:- Player3 New Balance-:1200
+2021-03-14.19:11:04:	Visited Emptycell PlayerName:- Player1 New Balance-:800
+2021-03-14.19:11:04:	Visited Emptycell PlayerName:- Player2 New Balance-:850
+2021-03-14.19:11:04:	Visited Emptycell PlayerName:- Player3 New Balance-:1200
+2021-03-14.19:11:04:	Visited Hotel to buy Player Name:- Player1 New Balance-:600
+2021-03-14.19:11:04:	Visited Hotel to buy Player Name:- Player2 New Balance-:650
+2021-03-14.19:11:04:	Visited Jail PlayerName:- Player3 New Balance-:1050
+2021-03-14.19:11:04:	Visited Hotel to buy Player Name:- Player1 New Balance-:400
+2021-03-14.19:11:04:	Visited Emptycell PlayerName:- Player2 New Balance-:650
+2021-03-14.19:11:04:	Visited Hotel Owned by :-Player1 visitorr Player Name:- Player3 New Balance-:1000
+2021-03-14.19:11:04:	Visited Jail PlayerName:- Player1 New Balance-:300
+2021-03-14.19:11:04:	Visited Jail PlayerName:- Player2 New Balance-:500
+2021-03-14.19:11:04:	Visited Hotel to buy Player Name:- Player3 New Balance-:800
+2021-03-14.19:11:04:	Visited Treasure PlayerName:- Player1 New Balance-:500
+2021-03-14.19:11:04:	Visited Jail PlayerName:- Player2 New Balance-:350
+2021-03-14.19:11:04:	Visited Emptycell PlayerName:- Player3 New Balance-:800
+2021-03-14.19:11:04:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.19:11:04:	Visited Treasure PlayerName:- Player2 New Balance-:550
+2021-03-14.19:11:04:	Visited Jail PlayerName:- Player3 New Balance-:650
+2021-03-14.19:11:04:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.19:11:04:	Visited Emptycell PlayerName:- Player2 New Balance-:550
+2021-03-14.19:11:04:	Visited Jail PlayerName:- Player3 New Balance-:500
+2021-03-14.19:11:04:	Visited Treasure PlayerName:- Player1 New Balance-:700
+2021-03-14.19:11:04:	Visited Jail PlayerName:- Player2 New Balance-:400
+2021-03-14.19:11:04:	Visited Emptycell PlayerName:- Player3 New Balance-:500
+2021-03-14.19:11:04:	output balance
+2021-03-14.19:44:52:	Game has started
+2021-03-14.19:44:52:	Created EmptyCell
+2021-03-14.19:44:52:	Created EmptyCell
+2021-03-14.19:44:52:	Created JailCell
+2021-03-14.19:44:52:	Created HotelCell
+2021-03-14.19:44:52:	Created EmptyCell
+2021-03-14.19:44:52:	Created treasureCell
+2021-03-14.19:44:52:	Created JailCell
+2021-03-14.19:44:52:	Created treasureCell
+2021-03-14.19:44:52:	Created EmptyCell
+2021-03-14.19:44:52:	Created EmptyCell
+2021-03-14.19:44:52:	Created HotelCell
+2021-03-14.19:44:52:	Created JailCell
+2021-03-14.19:44:52:	Created treasureCell
+2021-03-14.19:44:52:	Created HotelCell
+2021-03-14.19:44:52:	Created EmptyCell
+2021-03-14.19:44:52:	Created EmptyCell
+2021-03-14.19:44:52:	Created JailCell
+2021-03-14.19:44:52:	Created HotelCell
+2021-03-14.19:44:52:	Created EmptyCell
+2021-03-14.19:44:52:	Created treasureCell
+2021-03-14.19:44:52:	Created JailCell
+2021-03-14.19:44:52:	Created treasureCell
+2021-03-14.19:44:52:	Created EmptyCell
+2021-03-14.19:44:52:	Created EmptyCell
+2021-03-14.19:44:52:	Created HotelCell
+2021-03-14.19:44:52:	Created JailCell
+2021-03-14.19:44:52:	Created treasureCell
+2021-03-14.19:44:52:	Created HotelCell
+2021-03-14.19:44:52:	Created JailCell
+2021-03-14.19:44:52:	Created EmptyCell
+2021-03-14.19:44:52:	Created EmptyCell
+2021-03-14.19:44:52:	Created JailCell
+2021-03-14.19:44:52:	Created HotelCell
+2021-03-14.19:44:52:	Created EmptyCell
+2021-03-14.19:44:52:	Created treasureCell
+2021-03-14.19:44:52:	Created JailCell
+2021-03-14.19:44:52:	Created treasureCell
+2021-03-14.19:44:52:	Created EmptyCell
+2021-03-14.19:44:52:	Created EmptyCell
+2021-03-14.19:44:52:	Created HotelCell
+2021-03-14.19:44:52:	Created JailCell
+2021-03-14.19:44:52:	Created treasureCell
+2021-03-14.19:44:52:	Created EmptyCell
+2021-03-14.19:44:52:	Created HotelCell
+2021-03-14.19:44:52:	Created EmptyCell
+2021-03-14.19:44:52:	Visited Emptycell PlayerName:- Player1 New Balance-:1000
+2021-03-14.19:44:52:	Visited Emptycell PlayerName:- Player2 New Balance-:1000
+2021-03-14.19:44:52:	Visited Emptycell PlayerName:- Player3 New Balance-:1000
+2021-03-14.19:44:52:	Visited Hotel to buy Player Name:- Player1 New Balance-:800
+2021-03-14.19:44:52:	Visited Jail PlayerName:- Player2 New Balance-:850
+2021-03-14.19:44:52:	Visited Treasure PlayerName:- Player3 New Balance-:1200
+2021-03-14.19:44:52:	Visited Emptycell PlayerName:- Player1 New Balance-:800
+2021-03-14.19:44:52:	Visited Emptycell PlayerName:- Player2 New Balance-:850
+2021-03-14.19:44:52:	Visited Emptycell PlayerName:- Player3 New Balance-:1200
+2021-03-14.19:44:52:	Visited Hotel to buy Player Name:- Player1 New Balance-:600
+2021-03-14.19:44:52:	Visited Hotel to buy Player Name:- Player2 New Balance-:650
+2021-03-14.19:44:52:	Visited Jail PlayerName:- Player3 New Balance-:1050
+2021-03-14.19:44:52:	Visited Hotel to buy Player Name:- Player1 New Balance-:400
+2021-03-14.19:44:52:	Visited Emptycell PlayerName:- Player2 New Balance-:650
+2021-03-14.19:44:52:	Visited Hotel Owned by :-Player1 visitorr Player Name:- Player3 New Balance-:1000
+2021-03-14.19:44:52:	Visited Jail PlayerName:- Player1 New Balance-:300
+2021-03-14.19:44:52:	Visited Jail PlayerName:- Player2 New Balance-:500
+2021-03-14.19:44:52:	Visited Hotel to buy Player Name:- Player3 New Balance-:800
+2021-03-14.19:44:52:	Visited Treasure PlayerName:- Player1 New Balance-:500
+2021-03-14.19:44:52:	Visited Jail PlayerName:- Player2 New Balance-:350
+2021-03-14.19:44:52:	Visited Emptycell PlayerName:- Player3 New Balance-:800
+2021-03-14.19:44:52:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.19:44:52:	Visited Treasure PlayerName:- Player2 New Balance-:550
+2021-03-14.19:44:52:	Visited Jail PlayerName:- Player3 New Balance-:650
+2021-03-14.19:44:52:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.19:44:52:	Visited Emptycell PlayerName:- Player2 New Balance-:550
+2021-03-14.19:44:52:	Visited Jail PlayerName:- Player3 New Balance-:500
+2021-03-14.19:44:52:	Visited Treasure PlayerName:- Player1 New Balance-:700
+2021-03-14.19:44:52:	Visited Jail PlayerName:- Player2 New Balance-:400
+2021-03-14.19:44:52:	Visited Emptycell PlayerName:- Player3 New Balance-:500
+2021-03-14.19:44:52:	output balance
+2021-03-14.19:56:18:	Game has started
+2021-03-14.19:56:18:	Created EmptyCell
+2021-03-14.19:56:18:	Created EmptyCell
+2021-03-14.19:56:18:	Created JailCell
+2021-03-14.19:56:18:	Created HotelCell
+2021-03-14.19:56:18:	Created EmptyCell
+2021-03-14.19:56:18:	Created treasureCell
+2021-03-14.19:56:18:	Created JailCell
+2021-03-14.19:56:18:	Created treasureCell
+2021-03-14.19:56:18:	Created EmptyCell
+2021-03-14.19:56:18:	Created EmptyCell
+2021-03-14.19:56:18:	Created HotelCell
+2021-03-14.19:56:18:	Created JailCell
+2021-03-14.19:56:18:	Created treasureCell
+2021-03-14.19:56:18:	Created HotelCell
+2021-03-14.19:56:18:	Created EmptyCell
+2021-03-14.19:56:18:	Created EmptyCell
+2021-03-14.19:56:18:	Created JailCell
+2021-03-14.19:56:18:	Created HotelCell
+2021-03-14.19:56:18:	Created EmptyCell
+2021-03-14.19:56:18:	Created treasureCell
+2021-03-14.19:56:18:	Created JailCell
+2021-03-14.19:56:18:	Created treasureCell
+2021-03-14.19:56:18:	Created EmptyCell
+2021-03-14.19:56:18:	Created EmptyCell
+2021-03-14.19:56:18:	Created HotelCell
+2021-03-14.19:56:18:	Created JailCell
+2021-03-14.19:56:18:	Created treasureCell
+2021-03-14.19:56:18:	Created HotelCell
+2021-03-14.19:56:18:	Created JailCell
+2021-03-14.19:56:18:	Created EmptyCell
+2021-03-14.19:56:18:	Created EmptyCell
+2021-03-14.19:56:18:	Created JailCell
+2021-03-14.19:56:18:	Created HotelCell
+2021-03-14.19:56:18:	Created EmptyCell
+2021-03-14.19:56:18:	Created treasureCell
+2021-03-14.19:56:18:	Created JailCell
+2021-03-14.19:56:18:	Created treasureCell
+2021-03-14.19:56:18:	Created EmptyCell
+2021-03-14.19:56:18:	Created EmptyCell
+2021-03-14.19:56:18:	Created HotelCell
+2021-03-14.19:56:18:	Created JailCell
+2021-03-14.19:56:18:	Created treasureCell
+2021-03-14.19:56:18:	Created EmptyCell
+2021-03-14.19:56:18:	Created HotelCell
+2021-03-14.19:56:18:	Created EmptyCell
+2021-03-14.19:56:19:	Visited Emptycell PlayerName:- Player1 New Balance-:1000
+2021-03-14.19:56:19:	Visited Emptycell PlayerName:- Player2 New Balance-:1000
+2021-03-14.19:56:19:	Visited Emptycell PlayerName:- Player3 New Balance-:1000
+2021-03-14.19:56:19:	Visited Hotel to buy Player Name:- Player1 New Balance-:800
+2021-03-14.19:56:19:	Visited Jail PlayerName:- Player2 New Balance-:850
+2021-03-14.19:56:19:	Visited Treasure PlayerName:- Player3 New Balance-:1200
+2021-03-14.19:56:19:	Visited Emptycell PlayerName:- Player1 New Balance-:800
+2021-03-14.19:56:19:	Visited Emptycell PlayerName:- Player2 New Balance-:850
+2021-03-14.19:56:19:	Visited Emptycell PlayerName:- Player3 New Balance-:1200
+2021-03-14.19:56:19:	Visited Hotel to buy Player Name:- Player1 New Balance-:600
+2021-03-14.19:56:19:	Visited Hotel to buy Player Name:- Player2 New Balance-:650
+2021-03-14.19:56:19:	Visited Jail PlayerName:- Player3 New Balance-:1050
+2021-03-14.19:56:19:	Visited Hotel to buy Player Name:- Player1 New Balance-:400
+2021-03-14.19:56:19:	Visited Emptycell PlayerName:- Player2 New Balance-:650
+2021-03-14.19:56:19:	Visited Hotel Owned by :-Player1 visitorr Player Name:- Player3 New Balance-:1000
+2021-03-14.19:56:19:	Visited Jail PlayerName:- Player1 New Balance-:300
+2021-03-14.19:56:19:	Visited Jail PlayerName:- Player2 New Balance-:500
+2021-03-14.19:56:19:	Visited Hotel to buy Player Name:- Player3 New Balance-:800
+2021-03-14.19:56:19:	Visited Treasure PlayerName:- Player1 New Balance-:500
+2021-03-14.19:56:19:	Visited Jail PlayerName:- Player2 New Balance-:350
+2021-03-14.19:56:19:	Visited Emptycell PlayerName:- Player3 New Balance-:800
+2021-03-14.19:56:19:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.19:56:19:	Visited Treasure PlayerName:- Player2 New Balance-:550
+2021-03-14.19:56:19:	Visited Jail PlayerName:- Player3 New Balance-:650
+2021-03-14.19:56:19:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.19:56:19:	Visited Emptycell PlayerName:- Player2 New Balance-:550
+2021-03-14.19:56:19:	Visited Jail PlayerName:- Player3 New Balance-:500
+2021-03-14.19:56:19:	Visited Treasure PlayerName:- Player1 New Balance-:700
+2021-03-14.19:56:19:	Visited Jail PlayerName:- Player2 New Balance-:400
+2021-03-14.19:56:19:	Visited Emptycell PlayerName:- Player3 New Balance-:500
+2021-03-14.19:56:19:	output balance
+2021-03-14.20:00:50:	Game has started
+2021-03-14.20:00:50:	Created EmptyCell
+2021-03-14.20:00:50:	Created EmptyCell
+2021-03-14.20:00:50:	Created JailCell
+2021-03-14.20:00:50:	Created HotelCell
+2021-03-14.20:00:50:	Created EmptyCell
+2021-03-14.20:00:50:	Created treasureCell
+2021-03-14.20:00:50:	Created JailCell
+2021-03-14.20:00:50:	Created treasureCell
+2021-03-14.20:00:50:	Created EmptyCell
+2021-03-14.20:00:50:	Created EmptyCell
+2021-03-14.20:00:50:	Created HotelCell
+2021-03-14.20:00:50:	Created JailCell
+2021-03-14.20:00:50:	Created treasureCell
+2021-03-14.20:00:50:	Created HotelCell
+2021-03-14.20:00:50:	Created EmptyCell
+2021-03-14.20:00:50:	Created EmptyCell
+2021-03-14.20:00:50:	Created JailCell
+2021-03-14.20:00:50:	Created HotelCell
+2021-03-14.20:00:50:	Created EmptyCell
+2021-03-14.20:00:50:	Created treasureCell
+2021-03-14.20:00:50:	Created JailCell
+2021-03-14.20:00:50:	Created treasureCell
+2021-03-14.20:00:50:	Created EmptyCell
+2021-03-14.20:00:50:	Created EmptyCell
+2021-03-14.20:00:50:	Created HotelCell
+2021-03-14.20:00:50:	Created JailCell
+2021-03-14.20:00:50:	Created treasureCell
+2021-03-14.20:00:50:	Created HotelCell
+2021-03-14.20:00:50:	Created JailCell
+2021-03-14.20:00:50:	Created EmptyCell
+2021-03-14.20:00:50:	Created EmptyCell
+2021-03-14.20:00:50:	Created JailCell
+2021-03-14.20:00:50:	Created HotelCell
+2021-03-14.20:00:50:	Created EmptyCell
+2021-03-14.20:00:50:	Created treasureCell
+2021-03-14.20:00:50:	Created JailCell
+2021-03-14.20:00:50:	Created treasureCell
+2021-03-14.20:00:50:	Created EmptyCell
+2021-03-14.20:00:50:	Created EmptyCell
+2021-03-14.20:00:50:	Created HotelCell
+2021-03-14.20:00:50:	Created JailCell
+2021-03-14.20:00:50:	Created treasureCell
+2021-03-14.20:00:50:	Created EmptyCell
+2021-03-14.20:00:50:	Created HotelCell
+2021-03-14.20:00:50:	Created EmptyCell
+2021-03-14.20:00:50:	Visited Emptycell PlayerName:- Player1 New Balance-:1000
+2021-03-14.20:00:50:	Visited Emptycell PlayerName:- Player2 New Balance-:1000
+2021-03-14.20:00:50:	Visited Emptycell PlayerName:- Player3 New Balance-:1000
+2021-03-14.20:00:50:	Visited Hotel to buy Player Name:- Player1 New Balance-:800
+2021-03-14.20:00:50:	Visited Jail PlayerName:- Player2 New Balance-:850
+2021-03-14.20:00:50:	Visited Treasure PlayerName:- Player3 New Balance-:1200
+2021-03-14.20:00:50:	Visited Emptycell PlayerName:- Player1 New Balance-:800
+2021-03-14.20:00:50:	Visited Emptycell PlayerName:- Player2 New Balance-:850
+2021-03-14.20:00:50:	Visited Emptycell PlayerName:- Player3 New Balance-:1200
+2021-03-14.20:00:50:	Visited Hotel to buy Player Name:- Player1 New Balance-:600
+2021-03-14.20:00:50:	Visited Hotel to buy Player Name:- Player2 New Balance-:650
+2021-03-14.20:00:50:	Visited Jail PlayerName:- Player3 New Balance-:1050
+2021-03-14.20:00:50:	Visited Hotel to buy Player Name:- Player1 New Balance-:400
+2021-03-14.20:00:50:	Visited Emptycell PlayerName:- Player2 New Balance-:650
+2021-03-14.20:00:50:	Visited Hotel Owned by :-Player1 visitorr Player Name:- Player3 New Balance-:1000
+2021-03-14.20:00:50:	Visited Jail PlayerName:- Player1 New Balance-:300
+2021-03-14.20:00:50:	Visited Jail PlayerName:- Player2 New Balance-:500
+2021-03-14.20:00:50:	Visited Hotel to buy Player Name:- Player3 New Balance-:800
+2021-03-14.20:00:50:	Visited Treasure PlayerName:- Player1 New Balance-:500
+2021-03-14.20:00:50:	Visited Jail PlayerName:- Player2 New Balance-:350
+2021-03-14.20:00:50:	Visited Emptycell PlayerName:- Player3 New Balance-:800
+2021-03-14.20:00:50:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.20:00:50:	Visited Treasure PlayerName:- Player2 New Balance-:550
+2021-03-14.20:00:50:	Visited Jail PlayerName:- Player3 New Balance-:650
+2021-03-14.20:00:50:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.20:00:50:	Visited Emptycell PlayerName:- Player2 New Balance-:550
+2021-03-14.20:00:50:	Visited Jail PlayerName:- Player3 New Balance-:500
+2021-03-14.20:00:50:	Visited Treasure PlayerName:- Player1 New Balance-:700
+2021-03-14.20:00:50:	Visited Jail PlayerName:- Player2 New Balance-:400
+2021-03-14.20:00:50:	Visited Emptycell PlayerName:- Player3 New Balance-:500
+2021-03-14.20:00:50:	output balance
+2021-03-14.20:02:17:	Game has started
+2021-03-14.20:02:17:	Created EmptyCell
+2021-03-14.20:02:17:	Created EmptyCell
+2021-03-14.20:02:17:	Created JailCell
+2021-03-14.20:02:17:	Created HotelCell
+2021-03-14.20:02:17:	Created EmptyCell
+2021-03-14.20:02:17:	Created treasureCell
+2021-03-14.20:02:17:	Created JailCell
+2021-03-14.20:02:17:	Created treasureCell
+2021-03-14.20:02:17:	Created EmptyCell
+2021-03-14.20:02:17:	Created EmptyCell
+2021-03-14.20:02:17:	Created HotelCell
+2021-03-14.20:02:17:	Created JailCell
+2021-03-14.20:02:17:	Created treasureCell
+2021-03-14.20:02:17:	Created HotelCell
+2021-03-14.20:02:17:	Created EmptyCell
+2021-03-14.20:02:17:	Created EmptyCell
+2021-03-14.20:02:17:	Created JailCell
+2021-03-14.20:02:17:	Created HotelCell
+2021-03-14.20:02:17:	Created EmptyCell
+2021-03-14.20:02:17:	Created treasureCell
+2021-03-14.20:02:17:	Created JailCell
+2021-03-14.20:02:17:	Created treasureCell
+2021-03-14.20:02:17:	Created EmptyCell
+2021-03-14.20:02:17:	Created EmptyCell
+2021-03-14.20:02:17:	Created HotelCell
+2021-03-14.20:02:17:	Created JailCell
+2021-03-14.20:02:17:	Created treasureCell
+2021-03-14.20:02:17:	Created HotelCell
+2021-03-14.20:02:17:	Created JailCell
+2021-03-14.20:02:17:	Created EmptyCell
+2021-03-14.20:02:17:	Created EmptyCell
+2021-03-14.20:02:17:	Created JailCell
+2021-03-14.20:02:17:	Created HotelCell
+2021-03-14.20:02:17:	Created EmptyCell
+2021-03-14.20:02:17:	Created treasureCell
+2021-03-14.20:02:17:	Created JailCell
+2021-03-14.20:02:17:	Created treasureCell
+2021-03-14.20:02:17:	Created EmptyCell
+2021-03-14.20:02:17:	Created EmptyCell
+2021-03-14.20:02:17:	Created HotelCell
+2021-03-14.20:02:17:	Created JailCell
+2021-03-14.20:02:17:	Created treasureCell
+2021-03-14.20:02:17:	Created EmptyCell
+2021-03-14.20:02:17:	Created HotelCell
+2021-03-14.20:02:17:	Created EmptyCell
+2021-03-14.20:02:17:	Visited Emptycell PlayerName:- Player1 New Balance-:1000
+2021-03-14.20:02:17:	Visited Emptycell PlayerName:- Player2 New Balance-:1000
+2021-03-14.20:02:17:	Visited Emptycell PlayerName:- Player3 New Balance-:1000
+2021-03-14.20:02:17:	Visited Hotel to buy Player Name:- Player1 New Balance-:800
+2021-03-14.20:02:17:	Visited Jail PlayerName:- Player2 New Balance-:850
+2021-03-14.20:02:17:	Visited Treasure PlayerName:- Player3 New Balance-:1200
+2021-03-14.20:02:17:	Visited Emptycell PlayerName:- Player1 New Balance-:800
+2021-03-14.20:02:17:	Visited Emptycell PlayerName:- Player2 New Balance-:850
+2021-03-14.20:02:17:	Visited Emptycell PlayerName:- Player3 New Balance-:1200
+2021-03-14.20:02:17:	Visited Hotel to buy Player Name:- Player1 New Balance-:600
+2021-03-14.20:02:17:	Visited Hotel to buy Player Name:- Player2 New Balance-:650
+2021-03-14.20:02:17:	Visited Jail PlayerName:- Player3 New Balance-:1050
+2021-03-14.20:02:17:	Visited Hotel to buy Player Name:- Player1 New Balance-:400
+2021-03-14.20:02:17:	Visited Emptycell PlayerName:- Player2 New Balance-:650
+2021-03-14.20:02:17:	Visited Hotel Owned by :-Player1 visitorr Player Name:- Player3 New Balance-:1000
+2021-03-14.20:02:17:	Visited Jail PlayerName:- Player1 New Balance-:300
+2021-03-14.20:02:17:	Visited Jail PlayerName:- Player2 New Balance-:500
+2021-03-14.20:02:17:	Visited Hotel to buy Player Name:- Player3 New Balance-:800
+2021-03-14.20:02:17:	Visited Treasure PlayerName:- Player1 New Balance-:500
+2021-03-14.20:02:17:	Visited Jail PlayerName:- Player2 New Balance-:350
+2021-03-14.20:02:17:	Visited Emptycell PlayerName:- Player3 New Balance-:800
+2021-03-14.20:02:17:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.20:02:17:	Visited Treasure PlayerName:- Player2 New Balance-:550
+2021-03-14.20:02:17:	Visited Jail PlayerName:- Player3 New Balance-:650
+2021-03-14.20:02:17:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.20:02:17:	Visited Emptycell PlayerName:- Player2 New Balance-:550
+2021-03-14.20:02:17:	Visited Jail PlayerName:- Player3 New Balance-:500
+2021-03-14.20:02:17:	Visited Treasure PlayerName:- Player1 New Balance-:700
+2021-03-14.20:02:17:	Visited Jail PlayerName:- Player2 New Balance-:400
+2021-03-14.20:02:17:	Visited Emptycell PlayerName:- Player3 New Balance-:500
+2021-03-14.20:02:17:	output balance
+2021-03-14.23:13:20:	Game has started
+2021-03-14.23:13:21:	Created EmptyCell
+2021-03-14.23:13:21:	Created EmptyCell
+2021-03-14.23:13:21:	Created JailCell
+2021-03-14.23:13:21:	Created HotelCell
+2021-03-14.23:13:21:	Created EmptyCell
+2021-03-14.23:13:21:	Created treasureCell
+2021-03-14.23:13:21:	Created JailCell
+2021-03-14.23:13:21:	Created treasureCell
+2021-03-14.23:13:21:	Created EmptyCell
+2021-03-14.23:13:21:	Created EmptyCell
+2021-03-14.23:13:21:	Created HotelCell
+2021-03-14.23:13:21:	Created JailCell
+2021-03-14.23:13:21:	Created treasureCell
+2021-03-14.23:13:21:	Created HotelCell
+2021-03-14.23:13:21:	Created EmptyCell
+2021-03-14.23:13:21:	Created EmptyCell
+2021-03-14.23:13:21:	Created JailCell
+2021-03-14.23:13:21:	Created HotelCell
+2021-03-14.23:13:21:	Created EmptyCell
+2021-03-14.23:13:21:	Created treasureCell
+2021-03-14.23:13:21:	Created JailCell
+2021-03-14.23:13:21:	Created treasureCell
+2021-03-14.23:13:21:	Created EmptyCell
+2021-03-14.23:13:21:	Created EmptyCell
+2021-03-14.23:13:21:	Created HotelCell
+2021-03-14.23:13:21:	Created JailCell
+2021-03-14.23:13:21:	Created treasureCell
+2021-03-14.23:13:21:	Created HotelCell
+2021-03-14.23:13:21:	Created JailCell
+2021-03-14.23:13:21:	Created EmptyCell
+2021-03-14.23:13:21:	Created EmptyCell
+2021-03-14.23:13:21:	Created JailCell
+2021-03-14.23:13:21:	Created HotelCell
+2021-03-14.23:13:21:	Created EmptyCell
+2021-03-14.23:13:21:	Created treasureCell
+2021-03-14.23:13:21:	Created JailCell
+2021-03-14.23:13:21:	Created treasureCell
+2021-03-14.23:13:21:	Created EmptyCell
+2021-03-14.23:13:21:	Created EmptyCell
+2021-03-14.23:13:21:	Created HotelCell
+2021-03-14.23:13:21:	Created JailCell
+2021-03-14.23:13:21:	Created treasureCell
+2021-03-14.23:13:21:	Created EmptyCell
+2021-03-14.23:13:21:	Created HotelCell
+2021-03-14.23:13:21:	Created EmptyCell
+2021-03-14.23:13:21:	Visited Emptycell PlayerName:- Player1 New Balance-:1000
+2021-03-14.23:13:21:	Visited Emptycell PlayerName:- Player2 New Balance-:1000
+2021-03-14.23:13:21:	Visited Emptycell PlayerName:- Player3 New Balance-:1000
+2021-03-14.23:13:21:	Visited Hotel to buy Player Name:- Player1 New Balance-:800
+2021-03-14.23:13:21:	Visited Jail PlayerName:- Player2 New Balance-:850
+2021-03-14.23:13:21:	Visited Treasure PlayerName:- Player3 New Balance-:1200
+2021-03-14.23:13:21:	Visited Emptycell PlayerName:- Player1 New Balance-:800
+2021-03-14.23:13:21:	Visited Emptycell PlayerName:- Player2 New Balance-:850
+2021-03-14.23:13:21:	Visited Emptycell PlayerName:- Player3 New Balance-:1200
+2021-03-14.23:13:21:	Visited Hotel to buy Player Name:- Player1 New Balance-:600
+2021-03-14.23:13:21:	Visited Hotel to buy Player Name:- Player2 New Balance-:650
+2021-03-14.23:13:21:	Visited Jail PlayerName:- Player3 New Balance-:1050
+2021-03-14.23:13:21:	Visited Hotel to buy Player Name:- Player1 New Balance-:400
+2021-03-14.23:13:21:	Visited Emptycell PlayerName:- Player2 New Balance-:650
+2021-03-14.23:13:21:	Visited Hotel Owned by :-Player1 visitorr Player Name:- Player3 New Balance-:1000
+2021-03-14.23:13:21:	Visited Jail PlayerName:- Player1 New Balance-:300
+2021-03-14.23:13:21:	Visited Jail PlayerName:- Player2 New Balance-:500
+2021-03-14.23:13:21:	Visited Hotel to buy Player Name:- Player3 New Balance-:800
+2021-03-14.23:13:21:	Visited Treasure PlayerName:- Player1 New Balance-:500
+2021-03-14.23:13:21:	Visited Jail PlayerName:- Player2 New Balance-:350
+2021-03-14.23:13:21:	Visited Emptycell PlayerName:- Player3 New Balance-:800
+2021-03-14.23:13:21:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.23:13:21:	Visited Treasure PlayerName:- Player2 New Balance-:550
+2021-03-14.23:13:21:	Visited Jail PlayerName:- Player3 New Balance-:650
+2021-03-14.23:13:21:	Visited Emptycell PlayerName:- Player1 New Balance-:500
+2021-03-14.23:13:21:	Visited Emptycell PlayerName:- Player2 New Balance-:550
+2021-03-14.23:13:21:	Visited Jail PlayerName:- Player3 New Balance-:500
+2021-03-14.23:13:21:	Visited Treasure PlayerName:- Player1 New Balance-:700
+2021-03-14.23:13:21:	Visited Jail PlayerName:- Player2 New Balance-:400
+2021-03-14.23:13:21:	Visited Emptycell PlayerName:- Player3 New Balance-:500
+2021-03-14.23:13:21:	output balance
+2021-03-14.23:20:16:	Game has started
+2021-03-14.23:20:28:	Dice ROll input is not as per the number of players
+2021-03-14.23:20:28:	ERROR with the Dice Input
